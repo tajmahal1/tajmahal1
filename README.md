@@ -22,8 +22,6 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
-<br />
-
 #
 
 ### 📺 Latest YouTube Videos
