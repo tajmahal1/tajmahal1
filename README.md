@@ -22,7 +22,7 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
-## 📤 Deploying it on your own
+## 📤 დასრულებული პროექტები
 
 Deploying on your own is optional. See the steps below.
 
