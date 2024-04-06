@@ -24,10 +24,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ---
 ## 📤 Latest Projects
 
-<details>
    <a href="GAUGZAVNE.GE">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
-</details>
+<img alt="gaugzavne.ge" title="gaugzavne.ge" src="https://custom-icon-badges.demolab.com/badge/-GAUGZAVNE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
 
 #
 
