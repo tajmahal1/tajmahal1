@@ -22,28 +22,13 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
-## 📤 დასრულებული პროექტები
-
-Deploying on your own is optional. See the steps below.
+## 📤 Latest Projects
 
 <details>
-  <summary>Deploy to Heroku</summary>
+  <summary>Gaugzavne.ge</summary>
 
-1. Sign in to **Heroku** or create a new account at <https://heroku.com>
-2. Click the Deploy button below
-
-  <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/DenverCoder1/custom-icon-badges/tree/main">
-      <img src="https://www.herokucdn.com/deploy/button.svg" title="Deploy to Heroku" alt="Deploy"/></a>
-  </p>
-
-3. Add the URL of a Mongo database as the `DB_URL` config var. The database should have a collection called `icons`. See [getting started](https://docs.atlas.mongodb.com/getting-started/) for more info on setting up a free Mongo Atlas database.
-
-![image](https://user-images.githubusercontent.com/20955511/126066250-108fc119-4bc3-4ba0-9b07-0c7402c5790e.png)
-
-4. Click **"Deploy App"** at the end of the form
-5. Once the app is deployed, you can use `<your-app-name>.herokuapp.com` in place of `custom-icon-badges.demolab.com`
-
+   მისამართი: <https://gaugzavne.ge>
+   BULK შეტყობინებების გამგზავნი პლატფორმა
 </details>
 
 #
