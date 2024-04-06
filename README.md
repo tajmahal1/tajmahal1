@@ -11,7 +11,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tajmahal1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
             <a href="https://github.com/tajmahal1?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tajmahal1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-         <a href="tel:+995550001761">
+         <a href="#">
          <img alt="Mobile" title="Mobile" src="https://custom-icon-badges.demolab.com/badge/-550--001--761-orange?style=for-the-badge&logo=phone&logoColor=white"/></a> 
             <a href="mailto:iliagorduladze1@gmail.com">
          <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-Mail-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
