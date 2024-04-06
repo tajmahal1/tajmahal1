@@ -16,7 +16,9 @@ I'm an indie full-stack developer and content creator building my version of the
             <a href="mailto:iliagorduladze1@gmail.com">
          <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-Mail-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
             <a href="https://facebook.com/i.gorduladze">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a> 
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
+            <a href="#">
+         <img alt="Location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Tbilisi-GEO-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
    </p>
 
 ---
