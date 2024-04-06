@@ -14,7 +14,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <a href="#">
          <img alt="Mobile" title="Mobile" src="https://custom-icon-badges.demolab.com/badge/-550--001--761-orange?style=for-the-badge&logo=phone&logoColor=white"/></a> 
             <a href="mailto:iliagorduladze1@gmail.com">
-         <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-Mail-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+         <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
             <a href="https://facebook.com/i.gorduladze">
          <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
             <a href="#">
