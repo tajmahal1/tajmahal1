@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ilia Gorduladze
 
-**`ჩემს შესახებ`**
+**`About me`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
@@ -25,10 +25,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ## 📤 Latest Projects
 
 <details>
-  <summary>Gaugzavne.ge</summary>
-
-   მისამართი: <https://gaugzavne.ge>
-   BULK შეტყობინებების გამგზავნი პლატფორმა
+   <a href="GAUGZAVNE.GE">
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
 </details>
 
 #
