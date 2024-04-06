@@ -11,6 +11,8 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tajmahal1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a href="https://github.com/tajmahal1?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-550--001--761-orange?style=for-the-badge&logo=phone&logoColor=white"/></a> 
+         <a href="mailto:iliagorduladze1@gmail.com">
+         <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a> 
    </p>
 
 ---
