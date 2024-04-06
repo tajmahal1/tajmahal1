@@ -22,7 +22,7 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
-#
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
