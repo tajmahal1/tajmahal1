@@ -14,7 +14,9 @@ I'm an indie full-stack developer and content creator building my version of the
          <a href="https://github.com/tajmahal1?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-550--001--761-orange?style=for-the-badge&logo=phone&logoColor=white"/></a> 
          <a href="mailto:iliagorduladze1@gmail.com">
-         <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-iliagorduladze1@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+         <img alt="mail" title="Mail" src="https://custom-icon-badges.demolab.com/badge/-iliagorduladze1@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+         <a href="https://facebook.com/i.gorduladze">
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a> 
    </p>
 
 ---
