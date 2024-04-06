@@ -25,7 +25,13 @@ I'm an indie full-stack developer and content creator building my version of the
 ## 📤 Latest Projects
 
    <a href="https://gaugzavne.ge">
-<img alt="gaugzavne.ge" title="gaugzavne.ge" src="https://custom-icon-badges.demolab.com/badge/-GAUGZAVNE.GE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+      <img alt="gaugzavne.ge" title="gaugzavne.ge" src="https://custom-icon-badges.demolab.com/badge/-GAUGZAVNE.GE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+   <a href="https://motopark.ge">
+      <img alt="motopark.ge" title="motopark.ge" src="https://custom-icon-badges.demolab.com/badge/-MOTOPARK.GE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+   <a href="https://dreamtown.ge">
+      <img alt="dreamtown.ge" title="dreamtown.ge" src="https://custom-icon-badges.demolab.com/badge/-DREAMTOWN.GE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+   <a href="https://kalakischrdilshi.ge">
+      <img alt="kalakischrdilshi.ge" title="kalakischrdilshi.ge" src="https://custom-icon-badges.demolab.com/badge/-KALAKISCHRDILSHI.GE-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
 
 #
 
